@@ -1,7 +1,6 @@
 laguage: java
 jdk:
  - openjdk8
-
 script: ./mvnw clean install
 
   

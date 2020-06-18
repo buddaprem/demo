@@ -3,6 +3,7 @@ install: true
 jdk:
  - openjdk11
 script: ./mvn clean install
+- ./mvnw spring-boot:run
 
 
   
